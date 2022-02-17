@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "yXb4UcS9vfxR3C0G3N6FVd0YMM/ZDTweGTQGrGw0XP0L0XldbljUUzwFC3Q7xPXB98ZisY+VnTNn9n+SkXa8Kg==",
+  "dgSpecHash": "ZnW3qRylpxzHoxjwFXLTijE+da/R2LuRdBg9Kq4G8MtV0oKIHax1RxODpB9Hk4RWPeWV2wp7mdnfnUwCkCmKXw==",
   "success": true,
   "projectFilePath": "D:\\أخرى\\projects training\\e-shop microservices\\src\\Services\\Catalog\\Catalog.API\\Catalog.API.csproj",
   "expectedPackageFiles": [
@@ -18,8 +18,7 @@
     "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512",
     "C:\\Users\\user\\.nuget\\packages\\system.buffers\\4.5.1\\system.buffers.4.5.1.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512",
-    "C:\\Users\\user\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.14\\microsoft.netcore.app.host.win-x64.5.0.14.nupkg.sha512"
+    "C:\\Users\\user\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\5.0.0\\system.runtime.compilerservices.unsafe.5.0.0.nupkg.sha512"
   ],
   "logs": []
 }
