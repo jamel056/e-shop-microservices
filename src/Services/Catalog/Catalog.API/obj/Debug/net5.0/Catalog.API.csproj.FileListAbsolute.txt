@@ -5,7 +5,6 @@ D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.
 D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\Catalog.API.runtimeconfig.json
 D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\Catalog.API.runtimeconfig.dev.json
 D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\Catalog.API.dll
-D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\ref\Catalog.API.dll
 D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\Catalog.API.pdb
 D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\Catalog.API.Views.dll
 D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\bin\Debug\net5.0\Catalog.API.Views.pdb
@@ -57,3 +56,5 @@ D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.
 D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\ref\Catalog.API.dll
 D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.pdb
 D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.genruntimeconfig.cache
+D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\Catalog.API.csproj.AssemblyReference.cache
+D:\أخرى\projects training\e-shop microservices\src\Services\Catalog\Catalog.API\obj\Debug\net5.0\refint\Catalog.API.dll
