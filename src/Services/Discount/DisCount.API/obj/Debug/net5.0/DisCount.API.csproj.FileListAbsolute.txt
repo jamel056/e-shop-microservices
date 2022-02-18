@@ -29,3 +29,4 @@ D:\أخرى\projects training\e-shop microservices\src\Services\Discount\DisCoun
 D:\أخرى\projects training\e-shop microservices\src\Services\Discount\DisCount.API\bin\Debug\net5.0\Dapper.dll
 D:\أخرى\projects training\e-shop microservices\src\Services\Discount\DisCount.API\bin\Debug\net5.0\Npgsql.dll
 D:\أخرى\projects training\e-shop microservices\src\Services\Discount\DisCount.API\bin\Debug\net5.0\System.Runtime.CompilerServices.Unsafe.dll
+D:\أخرى\projects training\e-shop microservices\src\Services\Discount\DisCount.API\bin\Debug\net5.0\Polly.dll
