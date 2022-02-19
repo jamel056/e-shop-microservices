@@ -1,6 +1,5 @@
 ﻿using DisCount.API.Entities;
 using DisCount.API.Repositories;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
 using System;
 using System.Net;
