@@ -40,3 +40,10 @@ D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.AP
 D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\System.Security.Cryptography.ProtectedData.dll
 D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\runtimes\win\lib\netcoreapp2.0\System.Diagnostics.PerformanceCounter.dll
 D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Google.Protobuf.dll
+D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.AspNetCore.Server.dll
+D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.AspNetCore.Server.ClientFactory.dll
+D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Core.Api.dll
+D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Client.dll
+D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.ClientFactory.dll
+D:\أخرى\projects training\e-shop microservices\src\Services\Basket\Basket.API\bin\Debug\net5.0\Grpc.Net.Common.dll
