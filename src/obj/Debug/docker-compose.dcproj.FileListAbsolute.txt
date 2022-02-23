@@ -1,1 +1,0 @@
-D:\أخرى\projects training\e-shop microservices\src\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
